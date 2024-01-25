@@ -1,1 +1,206 @@
-{}
+{
+    "games": [
+        {
+          "id": 1,
+          "name": "Chess",
+          "players": 2,
+          "complexity": "High",
+          "duration": "Long",
+          "genre": "Strategy"
+        },
+        {
+          "id": 2,
+          "name": "Monopoly",
+          "players": "2-8",
+          "complexity": "Medium",
+          "duration": "Medium",
+          "genre": "Finance"
+        },
+        {
+          "id": 3,
+          "name": "Catan",
+          "players": "3-4",
+          "complexity": "Medium",
+          "duration": "Medium",
+          "genre": "Resource Management"
+        },
+        {
+          "id": 4,
+          "name": "Scrabble",
+          "players": "2-4",
+          "complexity": "Low",
+          "duration": "Short",
+          "genre": "Word"
+        },
+        {
+          "id": 5,
+          "name": "Ticket to Ride",
+          "players": "2-5",
+          "complexity": "Medium",
+          "duration": "Medium",
+          "genre": "Route Building"
+        },
+        {
+          "id": 6,
+          "name": "Risk",
+          "players": "2-6",
+          "complexity": "High",
+          "duration": "Long",
+          "genre": "War"
+        },
+        {
+          "id": 7,
+          "name": "Pandemic",
+          "players": "2-4",
+          "complexity": "Medium",
+          "duration": "Medium",
+          "genre": "Cooperative"
+        },
+        {
+          "id": 8,
+          "name": "Codenames",
+          "players": "4-8",
+          "complexity": "Low",
+          "duration": "Short",
+          "genre": "Party"
+        },
+        {
+          "id": 9,
+          "name": "Dominion",
+          "players": "2-4",
+          "complexity": "Medium",
+          "duration": "Medium",
+          "genre": "Deck Building"
+        },
+        {
+          "id": 10,
+          "name": "Carcassonne",
+          "players": "2-5",
+          "complexity": "Low",
+          "duration": "Short",
+          "genre": "Tile Placement"
+        },
+        {
+          "id": 11,
+          "name": "Agricola",
+          "players": "1-5",
+          "complexity": "High",
+          "duration": "Long",
+          "genre": "Farming"
+        },
+        {
+          "id": 12,
+          "name": "Splendor",
+          "players": "2-4",
+          "complexity": "Low",
+          "duration": "Short",
+          "genre": "Card Drafting"
+        },
+        {
+          "id": 13,
+          "name": "7 Wonders",
+          "players": "3-7",
+          "complexity": "Medium",
+          "duration": "Medium",
+          "genre": "Civilization"
+        },
+        {
+          "id": 14,
+          "name": "Betrayal at House on the Hill",
+          "players": "3-6",
+          "complexity": "Medium",
+          "duration": "Medium",
+          "genre": "Horror"
+        },
+        {
+          "id": 15,
+          "name": "Kingdomino",
+          "players": "2-4",
+          "complexity": "Low",
+          "duration": "Short",
+          "genre": "Tile-Laying"
+        },
+        {
+          "id": 16,
+          "name": "Puerto Rico",
+          "players": "3-5",
+          "complexity": "High",
+          "duration": "Medium",
+          "genre": "Economic"
+        },
+        {
+          "id": 17,
+          "name": "Forbidden Island",
+          "players": "2-4",
+          "complexity": "Low",
+          "duration": "Short",
+          "genre": "Cooperative"
+        },
+        {
+          "id": 18,
+          "name": "Munchkin",
+          "players": "3-6",
+          "complexity": "Low",
+          "duration": "Short",
+          "genre": "Humor"
+        },
+        {
+          "id": 19,
+          "name": "Dixit",
+          "players": "3-6",
+          "complexity": "Low",
+          "duration": "Medium",
+          "genre": "Party"
+        },
+        {
+          "id": 20,
+          "name": "Power Grid",
+          "players": "2-6",
+          "complexity": "High",
+          "duration": "Long",
+          "genre": "Economic"
+        },
+        {
+          "id": 21,
+          "name": "Lords of Waterdeep",
+          "players": "2-5",
+          "complexity": "Medium",
+          "duration": "Medium",
+          "genre": "Worker Placement"
+        },
+        {
+          "id": 22,
+          "name": "Terraforming Mars",
+          "players": "1-5",
+          "complexity": "High",
+          "duration": "Long",
+          "genre": "Sci-Fi"
+        },
+        {
+          "id": 23,
+          "name": "Love Letter",
+          "players": "2-4",
+          "complexity": "Low",
+          "duration": "Short",
+          "genre": "Deduction"
+        },
+        {
+          "id": 24,
+          "name": "Eldritch Horror",
+          "players": "1-8",
+          "complexity": "High",
+          "duration": "Long",
+          "genre": "Horror"
+        },
+        {
+          "id": 25,
+          "name": "Hanabi",
+          "players": "2-5",
+          "complexity": "Low",
+          "duration": "Short",
+          "genre": "Cooperative"
+        }
+      ]
+      
+}
+
